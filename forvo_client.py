@@ -7,7 +7,7 @@ except:
     import urllib2
 
 # set your key here
-# if you don't have one, apply one on api.forvo.com
+# if you don't have one, apply one at api.forvo.com
 KEY=""
 
 def forvo(word):
