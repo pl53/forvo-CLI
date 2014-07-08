@@ -2,13 +2,12 @@ A Linux client for forvo.com
 
 Prerequisite:
   * An API key from forvo, it is free to apply one for personal use.
-  * Installation of Python2.7 and mpg123
+  * Installation of Python 3.x and mpg123
 
 How to use:
   1. Copy the program to whatever folder you like.
   2. Update API key in the program
-  3. Run python forvo_client [word]
+  3. Run python forvo.py [word]
 
 Note:
-  * The program is compatible with Python 2.7, may have issues with Python 3.
   * I prioritized American English pronunciation. You can change it accordingly.
