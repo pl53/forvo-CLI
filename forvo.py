@@ -9,8 +9,8 @@ except:
 
 # set your key here
 # if you don't have one, apply one at api.forvo.com
-#KEY=""
-KEY="a42ebcb8105826cf33060bfcbe313cfc"
+KEY=""
+#KEY="a42ebcb8105826cf33061bfcbe323cfd"
 
 def forvo(word):
 
