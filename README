@@ -5,9 +5,9 @@ Prerequisite:
   * Installation of Python 3.x and mpg123
 
 How to use:
-  1. Copy the program to whatever folder you like.
+  1. Download the program to a folder.
   2. Update API key in the program
-  3. Run python forvo.py [word]
+  3. Run "python forvo.py [word]" or just "forvo [word]" if you have set an aliase
 
 Note:
   * I prioritized American English pronunciation. You can change it accordingly.
